@@ -1,0 +1,21 @@
+.. astronomy-compendium documentation master file, created by
+   sphinx-quickstart on Sat Nov  7 15:33:45 2026.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to astronomy-compendium's documentation!
+================================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   motivation-and-plan.rst
+   light.rst
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
