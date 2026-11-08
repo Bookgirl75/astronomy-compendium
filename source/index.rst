@@ -12,6 +12,7 @@ Welcome to astronomy-compendium's documentation!
 
    motivation-and-plan.rst
    light.rst
+   gravity.rst
 
 Indices and tables
 ==================
