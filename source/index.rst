@@ -11,8 +11,18 @@ Welcome to astronomy-compendium's documentation!
    :caption: Contents:
 
    motivation-and-plan.rst
+   history.rst
    light.rst
    gravity.rst
+   big-open-questions.rst
+   survey-of-observatories.rst
+   the-expanding-universe.rst
+   stars.rst
+   distances-in-astronomy.rst
+   physics-basics.rst
+   rockets-and-satellites.rst
+   other-messengers.rst
+   
 
 Indices and tables
 ==================
