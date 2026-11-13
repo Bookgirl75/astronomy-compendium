@@ -28,19 +28,23 @@ waves are waves that don’t need a medium like air or water to travel.
 They have no mass because they are made of pure energy. They occur when
 electric and magnetic fields oscillate perpendicular to each other.
 
-But before we dive in, some jargon
-==================================
+Some Jargon
+___________
 
-optical, frequency, wavelength, speed
+- Wavelength: the distance between two peaks in a wave [insert
+  image]. Represented by the Greek letter lambda (λ), and can be
+  measured in picometers, nanometers, centimeters, meters, or
+  kilometers
+  
+- Frequency: the amount of wave cycles in a second. Represented by the
+  Greek letter nu (ν) and measured in Hertz (Hz).
 
-Wavelength: the distance between two peaks in a wave [insert image].
-Represented by the Greek letter Lambda, and can be measured in
-picometers, nanometers, centimeters, meters, or kilometers Frequency:
-The amount of wave cycles in a second. Represented by the Greek letter
-nu and measured in Hertz (Hz). Frequency and wavelength are inversely
-related and commonly represented by the equation [insert speed of light
-= frequency*wavelength] in which the speed of light (c) is in m/s,
-wavelength (lambda) is in m, and frequency (nu) is in Hz
+- Frequency and wavelength are inversely related and commonly
+  represented by the equation :math:`c = λ × ν` in which the speed of light (c)
+  is in m/s, wavelength (λ) is in m, and frequency (ν) is in Hz
+
+  
+
 
 Radio
    Radio waves have the largest wavelength, ranging from 100km to
@@ -59,13 +63,39 @@ Microwaves
    often mentioned in terms of the Cosmic Microwave Background, which
    will be discussed later in the chapter.
 
-   3. Infrared - Nestled right next to the red end of the visible light spectrum, infrared radiation has wavelengths ranging from 0.1 to 7.5 * 10^-5 cm, with frequencies of 10^12 to 5 * 10^14 Hz. Infrared radiation is strongly absorbed by water and the atmosphere, and makes up almost 50% of the sun's emitted radiation. 
-       4. Visible - The light in which we see the world. In humans, we generally see light through three cones in our eyes, one that responses to long wavelengths, one for medium, and one for short. Whatever wavelengths of visible light are absorbed by an object are what we don't see and what is reflected back into our eyes is what is seen. The visible light spectrum is also the basis for spectroscopy, which will be discussed later in the chapter. 
-       5. UV - UV, or Ultraviolet light, consists of wavelengths between 100 to 400 nanometers, and frequencies between 7.5 * 10^14 Hz to 3 * 10^16 Hz. UV radiation is accounts for 10% of the sun's radiation, and There are three main types of UV light, UV A, B, and C. Ultraviolet A is long-wave radiation, it is not absorbed by the ozone layer, and does little harm to the human body. These are the uv rays closest to visible light. UV B radiation is mostly absorbed by the ozone layer but what isn't can cause sunburns and skin cancer. UV C is the highest frequency, and is very harmful to living creatures. Luckily, they are unable to penetrate the ozone layer. These rays are also created artificially and used to sterilize equipment or purify water. 
-       6. X - Rays - X - Rays. We most commonly think of them 
-       7. Gamma -
-   3. Light as a wave vs as a particle -
-   4. Cosmic microwave background - 
-   5. Spectroscopy/planetary detection -
-   6. 
-   7.
+Infrared
+   Nestled right next to the red end of the visible light spectrum,
+   infrared radiation has wavelengths ranging from 0.1 to 7.5 * 10^-5 cm,
+   with frequencies of 10^12 to 5 * 10^14 Hz. Infrared radiation is
+   strongly absorbed by water and the atmosphere, and makes up almost 50%
+   of the sun's emitted radiation.
+
+Visible
+   The light in which we see the world. In humans, we generally see light
+   through three cones in our eyes, one that responses to long
+   wavelengths, one for medium, and one for short. Whatever wavelengths
+   of visible light are absorbed by an object are what we don't see and
+   what is reflected back into our eyes is what is seen. The visible
+   light spectrum is also the basis for spectroscopy, which will be
+   discussed later in the book.
+
+Ultraviolet
+   UV, or Ultraviolet light, consists of wavelengths between 100 to 400
+   nanometers, and frequencies between 7.5 * 10^14 Hz to 3 * 10^16 Hz. UV
+   radiation is accounts for 10% of the sun's radiation, and There are
+   three main types of UV light, UV A, B, and C. Ultraviolet A is
+   long-wave radiation, it is not absorbed by the ozone layer, and does
+   little harm to the human body. These are the uv rays closest to
+   visible light. UV B radiation is mostly absorbed by the ozone layer
+   but what isn't can cause sunburns and skin cancer. UV C is the highest
+   frequency, and is very harmful to living creatures. Luckily, they are
+   unable to penetrate the ozone layer. These rays are also created
+   artificially and used to sterilize equipment or purify water.
+
+X - Rays
+   X - Rays. We most commonly think of them 
+
+Gamma
+
+Light as a Wave Vs a Particle
+=============================

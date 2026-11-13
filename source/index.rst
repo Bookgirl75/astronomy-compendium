@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to astronomy-compendium's documentation!
+Welcome to the Astronomy Compendium!
 ================================================
 
 .. toctree::
@@ -11,17 +11,18 @@ Welcome to astronomy-compendium's documentation!
    :caption: Contents:
 
    motivation-and-plan.rst
+   big-open-questions.rst
    history.rst
+   physics-basics.rst
+   distances-in-astronomy.rst
    light.rst
    gravity.rst
-   big-open-questions.rst
-   survey-of-observatories.rst
+   other-messengers.rst
    the-expanding-universe.rst
    stars.rst
-   distances-in-astronomy.rst
-   physics-basics.rst
+   survey-of-observatories.rst
    rockets-and-satellites.rst
-   other-messengers.rst
+   
    
 
 Indices and tables
